@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teste</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_pessoa">Cadastro</string>
+    <string name="title_activity_configuracao">Configurações</string>
+    <string name="title_activity_pessoa_filter">Filtros</string>
+</resources>
